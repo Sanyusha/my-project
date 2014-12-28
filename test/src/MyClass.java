@@ -1,6 +1,6 @@
 
 public class MyClass {
 	MyClass() {
-		System.out.println("MyClass !!!");
+		System.out.println("MyClass");
 	}
 }
